@@ -6,7 +6,8 @@ const movie={
     release_year:"2021"
 };
 console.log(movie['title']);
-
+/* Output
+Jathiratnalu*/
 
 //medium-1//
 
@@ -23,7 +24,7 @@ function printUserDetails(name, email,age)
 
 
 
-// Medium -3//
+// Medium -2//
 const users=[
     {id:"123",username:"Supriya"},
     {id:"567",username:"Nikitha"},
