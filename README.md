@@ -1,4 +1,5 @@
-## part1 ##
+<pre>
+ ## part1 ##
 [Easy] Declare a variable named favoriteFood using const and assign it a string value of your favorite food. Print it to the console.
 // easy-1  //
 const favouritefood="carrot halwa";
@@ -227,6 +228,8 @@ console.log(guessednumber(1));
 console.log(guessednumber(9));
 ## Output ##
 <img width="102" alt="image" src="https://github.com/user-attachments/assets/6d8dcab4-84c4-4d4f-9976-636c04817671" />
+
+</pre> 
 
 
 
